@@ -1,6 +1,6 @@
 ---
 layout: menu-page
-title: About
+title: Resumé
 permalink: about:output_ext
 ---
 {% include calculate_relative_base.html %}
@@ -9,12 +9,15 @@ permalink: about:output_ext
 <div class="small-wrapper">
   <div class="about-container">
     <section class="about-header">
+      <!-- 
       <div class="author-image-container">
         <a href='{{ site.website }}'><img src="{{ relativebase }}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}"></a>
       </div>
+-->
       <h3>{{site.author}}</h3>
       <p class="subtitle">{{site.about-author}}</p>
     </section>
+    <!--
     <section class="about-body">
       <ul class="contact-list">
       {% if site.twitter %}
@@ -37,6 +40,8 @@ permalink: about:output_ext
         <i class="fa fa-stack-overflow" aria-hidden="true"></i></a></li>
       {% endif %}
       </ul>
-    </section> <!-- End About Body-->
+    </section>
+    -->
+    <!-- End About Body-->
   </div> <!-- End About Container -->
 </div> <!-- End Small Wrapper -->
