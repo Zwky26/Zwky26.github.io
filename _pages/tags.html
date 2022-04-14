@@ -9,7 +9,7 @@ permalink: notdone:output_ext
   <h2>tags</h2>
   {% include tag_cloud.html %}
   <div class="tags-page-content">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  <!--{% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     <div class="list-group">
       <div class="list-group-title"><a id="{{ this_word | cgi_escape }}">{{ this_word }}</a></div>
@@ -23,6 +23,6 @@ permalink: notdone:output_ext
       {% endif %}{% endfor %}
        </div>
     </div>
-  {% endunless %}{% endfor %}
+  {% endunless %}{% endfor %} -->
   </div>
 </section>
