@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Zack Wang # add your name
 author-pic: profile.jpeg
-about-author: Hi, I'm Zack! A C.S undergrad at UChicago, soon-to-be graduate student studying Health Informatics. This is my forever-in-progress personal website, where I will be posting my side projects and other work, whether that be art, music, code, or thoughts on miscellaneous topics.
+about-author: Hi, I'm Zack! A C.S undergrad at UChicago, soon-to-be graduate student at Johns Hopkins studying Health Informatics. This is my forever-in-progress personal website, where I will be posting my side projects and other work, whether that be art, music, code, or thoughts on miscellaneous topics.
 
 # Contact links
 email: zack.wang.lex@gmail.com # Add your Email address
