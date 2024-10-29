@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Zack Wang # add your name
 author-pic: profile.jpeg
-about-author: Hi, I'm Zack! I recently graduated with my B.S in Computer Science from UChicago, and am a graduate student at Johns Hopkins School of Medicine, studying Health Informatics. This is my forever-in-progress personal website, where I will be posting my side projects and other work, whether that be art, music, or code. My interests primarily concern EHR dataflow, and finding new ways of leveraging medical EMR for automated patient-level decisions
+about-author: Hi all, I'm Zack! I am a computer programmer, specialized in Data Science in Health Informatics. I am currently a Data QA Engineer at Healthverity, a startup based in Philly, PA. I hold an M.S in Health Informatics from the Johns Hopkins School of Medicine, and a B.S in Computer Science from the University of Chicago. 
 
 # Contact links
 email: zack.wang.lex@gmail.com # Add your Email address
